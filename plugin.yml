@@ -1,0 +1,6 @@
+name: EndlessPlugin
+main: Tengus\Endless-Horizons\Main
+version: "1.0.0"
+api: [1.0.0]
+description: Handles everything that happens on the EH server
+author: Tengus
